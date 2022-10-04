@@ -1,0 +1,30 @@
+.home{
+
+  
+  display: grid;
+  place-content: center;
+   
+
+}
+#btn{
+    background-color: rgb(0, 183, 255);
+    border: none;
+    outline: none;
+    padding: 8px 18px;
+}
+
+ .heading{
+ font-size: 22px;
+ align-items: center;
+} 
+
+.tours h6 ,p{
+ padding: 12px;
+}
+.tickets{
+display: flex;
+align-items: center;
+text-align: center;
+border-bottom:  1px solid black;
+}
+

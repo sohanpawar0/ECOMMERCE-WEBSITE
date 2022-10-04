@@ -1,0 +1,18 @@
+.heading {
+    width: 100%;
+    background-color: rgb(127, 127, 127);
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.product {
+    text-align: center;
+    list-style: none;
+}
+
+.seeCartBtn {
+    margin-top: 20px;
+    background-color: rgb(131, 131, 206);
+    text-align: center;
+}

@@ -1,0 +1,36 @@
+.cartContainer {
+    padding: 0.5vw;
+    position: fixed;
+    width: 35vw;
+    top: 10vh;
+    height: 70vh;
+    right: 0;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(177, 103, 103);
+    min-height: 50vh;
+    z-index: 1;
+    overflow-y: auto;
+}
+
+.cartItems {
+    list-style: none;
+}
+
+.cartList {
+    display: block;
+}
+
+.removeBtn {
+    background-color: rgb(255, 76, 76);
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #fbfbfb;
+    cursor: pointer;
+}
+
+.closeBtnDiv {
+    text-align: right;
+}
