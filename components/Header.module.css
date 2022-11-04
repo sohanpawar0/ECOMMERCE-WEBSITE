@@ -1,0 +1,29 @@
+.banner {
+    padding-top: 10px;
+    display: flex;
+    width: 100%;
+    font-size: 20px;
+    background-color: bisque;
+    padding-bottom: 10px;
+}
+.linkCase {
+    display: flex;
+    width: 80%;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+
+.cartCase {
+    display: flex;
+    width: 20%;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.cartItemsNum {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.active {
+    background-color: rgb(162, 245, 104);
+}
